@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ip_address" label="IP address" language="en" table="x_528479_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <help/>
+            <hint/>
+            <label>IP address</label>
+            <language>en</language>
+            <name>x_528479_iplookup_ipaddressinfo</name>
+            <plural>IP address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 03:01:07</sys_created_on>
+            <sys_id>63fa1940db0d20101e860181ca961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP address</sys_name>
+            <sys_package display_value="IPLookup" source="x_528479_iplookup">03cb957bdbf020101e860181ca961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">03cb957bdbf020101e860181ca961974</sys_scope>
+            <sys_update_name>sys_documentation_x_528479_iplookup_ipaddressinfo_ip_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 03:01:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
